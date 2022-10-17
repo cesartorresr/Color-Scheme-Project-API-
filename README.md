@@ -47,8 +47,7 @@ This is a solution to the [Scrimba Color-Scheme Generator Solo Project](https://
 ## Author
 
 - GitHub - [César Torres](https://github.com/cesartorresr)
-- Frontend Mentor - [@ifescohub](https://www.frontendmentor.io/profile/Ifescohub)
-- Twitter - [@UdehIfeanyi10](https://twitter.com/UdehIfeanyi10)
+- Twitter - [@CesarTorresR](https://twitter.com/CesarTorresR)
 
 ## Acknowledgments
 
