@@ -30,8 +30,8 @@ This is a solution to the [Scrimba Color-Scheme Generator Solo Project](https://
 
 ### Links
 
-- Solution URL: [github.com/Ifescohub/color-scheme-generator](https://github.com/Ifescohub/color-scheme-generator)
-- Live Site URL: [https://ifesco-colorscheme-gen.netlify.app/](https://ifesco-colorscheme-gen.netlify.app/)
+- Solution URL: https://github.com/cesartorresr/Color-Scheme-Project-API-
+- Live Site URL: https://cesartorresr.github.io/Color-Scheme-Project-API-/
 
 ## My process
 
