@@ -1,4 +1,4 @@
-# cod384474b0add1203f138b53
+# Color Scheme
 
 ## About Scrimba
 
