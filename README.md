@@ -1,12 +1,61 @@
 # Color Scheme
 
-## About Scrimba
+# Color-Scheme Generator App
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+This is a solution to the [Scrimba Color-Scheme Generator Solo Project](https://scrimba.com/allcourses).
 
-- [Our courses](https://scrimba.com/allcourses)
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+## Overview
+
+  Users will be able to:
+
+- generate a color-scheme on each button click,
+- choose a seed color for which the color scheme is to be generated
+- copy any color scheme to clipboard on click of any of the color hex
+
+### Screenshot
+<img width="1440" alt="Screen Shot 2022-10-17 at 2 21 29 PM" src="https://user-images.githubusercontent.com/71398081/196264378-11cfb967-ae84-41c4-a58c-e0101879f67f.png">
+
+
+
+### Links
+
+- Solution URL: [github.com/Ifescohub/color-scheme-generator](https://github.com/Ifescohub/color-scheme-generator)
+- Live Site URL: [https://ifesco-colorscheme-gen.netlify.app/](https://ifesco-colorscheme-gen.netlify.app/)
+
+## My process
+
+### Built with
+
+- HTML5 markup
+- Pure CSS
+- Vanilla JavaScript
+- Flexbox
+- thecolorapi
+
+
+## Author
+
+- GitHub - [César Torres](https://github.com/cesartorresr)
+- Frontend Mentor - [@ifescohub](https://www.frontendmentor.io/profile/Ifescohub)
+- Twitter - [@UdehIfeanyi10](https://twitter.com/UdehIfeanyi10)
+
+## Acknowledgments
+
+I acknowledge scrimba tutors for creating a solo project challenge like this to help learnings apply what they are learning. 
+You can also learn from Scrimba. Check the Links below.
+
+- [Scrimba courses](https://scrimba.com/allcourses)
 - [The Frontend Career Path](https://scrimba.com/learn/frontend)
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
